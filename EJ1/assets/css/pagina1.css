@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    color: purple;
+    font-size: 80px;
+}
+nav{
+    background-color: aqua;
+    text-align: right;
+}
+a{
+    background-color: red;
+    font-size: 40px;
+    margin-left: 20px;
+}
+h2{
+    background-color: aquamarine;
+    margin-bottom: 0px;
+    text-align: center;
+}
+h6{
+    background-color: aqua;
+    text-align: right;
+    margin: 0px;
+}
